@@ -1,4 +1,4 @@
-module github.com/a1424132610/go_pass/common/config
+module github.com/a1424132610/go_common/config
 
 go 1.18
 
